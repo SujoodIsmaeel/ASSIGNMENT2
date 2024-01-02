@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ASSIGNMENT2</string>
+    <string name="username" />
+    <string name="password" />
+    <string name="remember_me" />
+    <string name="login" />
+    <string name="sign_up" />
+</resources>
